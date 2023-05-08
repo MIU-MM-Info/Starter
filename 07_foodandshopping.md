@@ -22,7 +22,7 @@
 | McDonald | Burger | $2.5 - $7.5 |
 | Burger King | Burger | N/A |
 | Subway | Sandwich | $7 - $14 |
-| HyVee | Steamed Chickend | 9.5 |
+| HyVee | Steamed Chickend | $9.5 |
 | Pho | Fried Chicken, Pho, Fried Glass Noodle | $10 |
 | Imperial Buffet | Chinese Food | $16 |
 | Riverside | American Food, steak, fried chips, beacon | $14 |
