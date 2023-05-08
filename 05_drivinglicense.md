@@ -49,3 +49,24 @@ Behind the wheel / Driving test အတွက် လိုအပ်ချက်�
 Knowledge test အောင်မြင်ပြီး ကဒ်ရရှိမှ Driving test အတွက် appointment ယူနိုင်သည်၊ စာရွက်နှင့် appointment ယူ၍ မရပါ။
 
 Driving test ဖြေဆိုပြီး ကျလျှင် ၂ပတ်တာ စောင့်ဆိုင်းပြီးမှသာ appointment ပြန် ယူနိုင်သည်။
+
+
+## Route
+
+### Fairfield
+
+![](./driving/fairfield1.jpeg)
+
+![](./driving/fairfield2.jpeg)
+
+
+### Otumwa
+
+![](./driving/ottumwa1.jpeg)
+
+![](./driving/ottumwa2.jpeg)
+
+
+### Burlington
+
+![](./driving/burlington.jpeg)
