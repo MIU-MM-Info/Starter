@@ -28,7 +28,7 @@ Knowledge test အတွက် လိုအပ်ချက်များမှ�
 
 Behind the wheel / Driving test အတွက် လိုအပ်ချက်များမှာ
 
-- SSN number
+- SSN number (ကျောင်းမှ လျှောက်ပေးမည်)
 - I20
 - I94
 - မိမိတင်ပြသော လိပ်စာတွင် နေထိုင်ကြောင်း သက်သေ(ကျောင်းမှ housing@miu.edu email ကို တောင်းနိုင်သည် သို့မဟုတ် ဘဏ်မှ agreement form ကို ယူဆောင် သွားနိုင်သည်)

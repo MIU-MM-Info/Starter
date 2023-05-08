@@ -9,6 +9,8 @@
 - [Driving License](05_drivinglicense.md)
 - [Buying Car](06_buyingcar.md)
 - [Food & Shopping](07_foodandshopping.md)
+- [Phone](08_phone.md)
+- [Credit Card](09_creditcard.md)
 
 
 ## Changes
@@ -21,6 +23,8 @@
 - Update on Courses
 - Update on Driving License
 - Food & Shopping
+- Add Phone
+- Add Credit Card
 
 ### Version 1.0
 #### Dec 17, 2022 (Author: Zayar Tune)
