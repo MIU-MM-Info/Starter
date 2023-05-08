@@ -11,6 +11,7 @@
 - [Food & Shopping](07_foodandshopping.md)
 - [Phone](08_phone.md)
 - [Credit Card](09_creditcard.md)
+- [Edu Email](10_eduemail.md)
 
 
 ## Changes
@@ -25,6 +26,7 @@
 - Food & Shopping
 - Add Phone
 - Add Credit Card
+- Add Edu Email
 
 ### Version 1.0
 #### Dec 17, 2022 (Author: Zayar Tune)

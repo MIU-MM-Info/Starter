@@ -7,6 +7,13 @@
 | Dollar Tree | ၃ | ပစ္စည်းတစ်ခု $1.30 | 
 | Walmart   | ၇ | |
 
+## Online မှ ဝယ်ရန်
+
+| အမည် | Website | Remark |
+| ---- | ----------   | ----- |
+| Amazon | www.amazon.com | Prime Student ဖြင့် ဝယ်လျှင် Shipping charges free ဖြစ်သည်။ | 
+| Temu   | https://www.temu.com/ | တရုတ်ပစ္စည်းများ ဝယ်လျှင် Aliexpress ထက် မြန်သည်။ အများဆုံး ၁လ ဝန်းကျင်ခန့်သာ ကြာသည်။ Discount ပစ္စည်းများသာ ရောင်းသည် |
+| Coach Outlet | https://www.coachoutlet.com/ | Coach မှ official Outlet website ဖြစ်သည် |
 
 ## ဟင်းချက်ရန် ဝယ်ရန်
 
