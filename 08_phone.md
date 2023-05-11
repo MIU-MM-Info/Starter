@@ -3,8 +3,9 @@
 Phone ဝယ်ရန်
 
 - Mint Mobile
-- Tello
+- Tello (Fairfield တွင် 4G ပဲရ)
 - Google Fi
+- Visible
 
 တို့ ရှိသည်။
 
