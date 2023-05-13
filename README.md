@@ -29,7 +29,7 @@
 - Add Edu Email
 
 ### Version 1.0
-#### Dec 17, 2022 (Author: Zayar Tune)
+#### Dec 17, 2022 (Author: Zay Yar Tun)
 
 - Initial Version
 
