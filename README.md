@@ -12,9 +12,12 @@
 - [Phone](08_phone.md)
 - [Credit Card](09_creditcard.md)
 - [Edu Email](10_eduemail.md)
+- [Bank Account and Zelle](11_bank.md)
 
 
 ## Changes
+### Version 1.0.2
+- Update Bank Account And Zelle
 
 ### Version 1.0.1
 #### May 08, 2023 (Author: Saturngod)
