@@ -31,7 +31,7 @@ Express JS ကို သိထားရန်လိုအပ်သည်။ NPM 
 
 ## Course ရွေးချယ်ခြင်း
 
-[http://sched1.mum.edu/classes/Index.php](http://sched1.mum.edu/classes/Index.php) တွင် course schedule ဖတ်နိုင်သည်။
+[https://infosys.cs.miu.edu/infosys/CourseSignup/student/signup.jsp](https://infosys.cs.miu.edu/infosys/CourseSignup/student/signup.jsp) တွင် course schedule ဖတ်နိုင်သည်။
 
 ### အခြား
 
