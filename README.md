@@ -13,9 +13,12 @@
 - [Credit Card](09_creditcard.md)
 - [Edu Email](10_eduemail.md)
 - [Bank Account and Zelle](11_bank.md)
+- [Campus Map](map.pdf)
 
 
 ## Changes
+### Version 1.0.3
+- Add Campus Map
 ### Version 1.0.2
 - Update Bank Account And Zelle
 
