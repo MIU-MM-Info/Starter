@@ -17,9 +17,16 @@
 
 
 ## Changes
-### Version 1.0.3
+### Version 1.0.4
+#### March 29, 2023 (Author: Saturngod)
 - Add Campus Map
+
+### Version 1.0.3
+#### March 27, 2023 (Author: Zay Yar Tun)
+- Update Buying Car
+
 ### Version 1.0.2
+#### March 23, 2023 (Author: Saturngod)
 - Update Bank Account And Zelle
 
 ### Version 1.0.1
