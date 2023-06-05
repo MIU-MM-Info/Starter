@@ -15,7 +15,7 @@
 - [Bank Account and Zelle](11_bank.md)
 - [Campus Map](map.pdf)
 - [Job](12_job.md)
-- [Cloud](13_AWS.md)
+- [Cloud](13_cloud.md)
 
 
 ## Changes
