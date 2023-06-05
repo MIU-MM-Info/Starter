@@ -8,6 +8,17 @@ Credit Score သည် Credit card မှ သုံးပြီး ငွေပ�
 
 ကျောင်းသားများအတွက် Discover card သာ ရရှိမည် ဖြစ်သည်။ တစ်လ $2000 အထိ အသုံးပြုနိုင်သည်။
 
+Credit card ရရှိပြီးလျှင် Credit karma, Experian စသည့် Applications များကို install လုပ်ကာ မိမိ၏ credit score ကို စစ်ဆေးနိုင်ပါသည်။
+
+Discover card လျှောက်ထားရာတွင် ကျောင်းမှ ပေးသော email ကို အသုံးပြု၍ လျှောက်ထားလေ့ ရှိကြပြီး ကဒ်ရသည့်အခါ Discover Mobile Application တွင် မိမိ၏ personal email ဖြင့် Update ပြုလုပ်နိုင်ပါသည်။
+
+ပထမကဒ် ရရှိပြီး ၃/၄လအကြာ credit score လည်း 700 ကျော် ပတ်ချာလည် ရှိချိန်တွင် အခြား ကဒ်များကို ဆက်လက် လျှောက်ထားနိုင်ပါသည်။
+
+- Capital One SavorOne Student Cash Rewards Credit Card
+- Bank of America® Travel Rewards credit card for Students
+- Chase Freedom Unlimited®
+- Deserve Student Card
+
 ---
 
 > မလျှောက်ခင် ရှေ့အတန်းမှ​ လူများစီမှ referal ယူပြီး လျှောက်ဖို့ recommend လုပ်သည်။ နှစ်ဦးနှစ်ဖက် $100 ရရှိနိုင်သည်။
