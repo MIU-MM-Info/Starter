@@ -22,7 +22,7 @@ Practitioner -> Associate -> PROFESSIONAL -> SPECIALTY
 
 - Shared responsibility 
 - GuardDuty
-- Load balancer 
+- Load balancer / ELB
 - EC2
 - S3
 - Consolidated billing
@@ -43,6 +43,11 @@ Practitioner -> Associate -> PROFESSIONAL -> SPECIALTY
 - Lambda
 - SNS
 - SQS
+- Aurora
+- DynamoDB
+- CloudWatch
+- Direct Connect
+- VPC
 
 ### AWS Solutions Architect Associate
 
