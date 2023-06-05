@@ -17,6 +17,12 @@
 
 
 ## Changes
+### Version 1.0.5
+#### June 4, 2023 (Author: Zay Yar Tun)
+- Update Buying Car
+- Update Credit Card
+- Add Job
+
 ### Version 1.0.4
 #### March 29, 2023 (Author: Saturngod)
 - Add Campus Map
