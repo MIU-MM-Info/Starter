@@ -15,6 +15,7 @@
 - [Bank Account and Zelle](11_bank.md)
 - [Campus Map](map.pdf)
 - [Job](12_job.md)
+- [Cloud](13_AWS.md)
 
 
 ## Changes
@@ -23,6 +24,7 @@
 - Update Buying Car
 - Update Credit Card
 - Add Job
+- Add Cloud
 
 ### Version 1.0.4
 #### March 29, 2023 (Author: Saturngod)
