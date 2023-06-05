@@ -19,6 +19,10 @@
 
 
 ## Changes
+### Version 1.0.6
+#### June 5, 2023 (Author: Zay Yar Tun)
+- Update Buying Car
+
 ### Version 1.0.5
 #### June 4, 2023 (Author: Zay Yar Tun)
 - Update Buying Car
