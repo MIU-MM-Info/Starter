@@ -18,6 +18,32 @@ Practitioner -> Associate -> PROFESSIONAL -> SPECIALTY
 - Free course [ https://explore.skillbuilder.aws/learn/course/external/view/elearning/9449/exam-prep-aws-certified-cloud-practitioner-foundations ]
 - Youtube course [ https://youtu.be/SOTamWNgDKc ]
 
+#### 2023 June - Cloud Practitioner exam coverage
+
+- Shared responsibility 
+- GuardDuty
+- Load balancer 
+- EC2
+- S3
+- Consolidated billing
+- Organization 
+- NACL
+- Security Group
+- Well architected pillars
+- Availability zones
+- Regions
+- EBS
+- EFS
+- Support plans
+- Snowball
+- Route 53
+- Cloud Front
+- Edge location 
+- Auto scaling
+- Lambda
+- SNS
+- SQS
+
 ### AWS Solutions Architect Associate
 
 - Youtube course [ https://www.youtube.com/watch?v=Ia-UEYYR44s ]
