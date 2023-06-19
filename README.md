@@ -2,9 +2,15 @@
 
 ဒီ repo သည် Maharashi University သို့ လာရောက် တက်ရောက်မည့် ကျောင်းသားကျောင်းသူများ အတွက် အသုံးပြုရန် Guide ဖြစ်သည်။
 
+## ကျောင်းမရောင်ခင်
+
 - [မလာခင် ပြင်ဆင်ခြင်း](01_prepare.md)
 - [Airport Entry / Immigration](02_airport.md)
+
+## ကျောင်းအတွင်း
+
 - [Entry Test](03_entrytest.md)
+- [MIU App](14_miuapp.md)
 - [Courses](04_courses.md)
 - [Driving License](05_drivinglicense.md)
 - [Buying Car](06_buyingcar.md)
@@ -14,6 +20,9 @@
 - [Edu Email](10_eduemail.md)
 - [Bank Account and Zelle](11_bank.md)
 - [Campus Map](map.pdf)
+
+## အလုပ်အကိုင်
+
 - [Job](12_job.md)
 - [Cloud](13_cloud.md)
 
