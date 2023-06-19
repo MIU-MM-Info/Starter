@@ -30,7 +30,7 @@
 ## Changes
 ### Version 1.0.8
 ### June 19, 2023 (Author: Htain Lin Shwe)
-- Update README.md. Seprate the category.
+- Update README.md. Separate the category.
 - Add MIU App
 
 ### Version 1.0.7
