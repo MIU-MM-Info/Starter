@@ -28,6 +28,11 @@
 
 
 ## Changes
+
+### Version 1.0.9
+#### July 5, 2023 (Author: Htain Lin Shwe)
+- update information about cashback
+
 ### Version 1.0.8
 #### June 19, 2023 (Author: Htain Lin Shwe)
 - Update README.md. Separate the category.

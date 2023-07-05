@@ -19,6 +19,10 @@ Discover card လျှောက်ထားရာတွင် ကျောင�
 - Chase Freedom Unlimited®
 - Deserve Student Card
 
+## PayPal
+
+Discover card ကို [paypal](https://py.pl/1pf9jWs8rYC) ဖြင့် ချိတ်ဆက်ထားပြီး ငွေချေသည့် အခါ paypal မှ ချေလျှင် cashback ရနိုင်သည်။ ထို့ အပြင် Discover cashback များကို ငွေခြေသည့် အခါ ထည့်ရှင်းနိုင်သည်။
+
 ---
 
 > မလျှောက်ခင် ရှေ့အတန်းမှ​ လူများစီမှ referal ယူပြီး လျှောက်ဖို့ recommend လုပ်သည်။ နှစ်ဦးနှစ်ဖက် $100 ရရှိနိုင်သည်။
