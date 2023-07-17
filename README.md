@@ -26,46 +26,69 @@
 - [Job](12_job.md)
 - [Cloud](13_cloud.md)
 
-
 ## Changes
 
+### Version 1.1.0
+
+#### July 16, 2023 (Author: Zay Yar Tun)
+
+- update foodandshopping
+- update job
+
 ### Version 1.0.9
+
 #### July 5, 2023 (Author: Htain Lin Shwe)
+
 - update information about cashback
 
 ### Version 1.0.8
+
 #### June 19, 2023 (Author: Htain Lin Shwe)
+
 - Update README.md. Separate the category.
 - Add MIU App
 
 ### Version 1.0.7
+
 #### June 14, 2023 (Author: Zay Yar Tun)
+
 - Update Job
 
 ### Version 1.0.6
+
 #### June 5, 2023 (Author: Zay Yar Tun)
+
 - Update Buying Car
 
 ### Version 1.0.5
+
 #### June 4, 2023 (Author: Zay Yar Tun)
+
 - Update Buying Car
 - Update Credit Card
 - Add Job
 - Add Cloud
 
 ### Version 1.0.4
+
 #### March 29, 2023 (Author: Saturngod)
+
 - Add Campus Map
 
 ### Version 1.0.3
+
 #### March 27, 2023 (Author: Zay Yar Tun)
+
 - Update Buying Car
 
 ### Version 1.0.2
+
 #### March 23, 2023 (Author: Saturngod)
+
 - Update Bank Account And Zelle
 
 ### Version 1.0.1
+
 #### May 08, 2023 (Author: Saturngod)
 
 - Update on Prepare
@@ -78,7 +101,7 @@
 - Add Edu Email
 
 ### Version 1.0
+
 #### Dec 17, 2022 (Author: Zay Yar Tun)
 
 - Initial Version
-
