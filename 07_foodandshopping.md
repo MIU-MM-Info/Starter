@@ -40,3 +40,5 @@ Online မှ ပစ္စည်းဝယ်လျှင် တိုက်ရ�
 | Imperial Buffet | Chinese Food                              | $17         |
 | Riverside       | American Food, steak, fried chips, beacon | $5          |
 | Shokai          | Japanese Food                             | $14 - 17    |
+
+> McDonald, Burger King တို့ကို App ကနေ တဆင့် မှာယူနိုင်သည်။ Point ရနိုင်သလို နေ့စဥ် Deal တွေကြောင့် buy one get one free လည်း ရနိုင်သည်။
