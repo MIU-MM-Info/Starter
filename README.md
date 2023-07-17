@@ -28,6 +28,13 @@
 
 ## Changes
 
+### Version 1.1.1
+
+#### July 17, 2023 (Author: Htain Lin Shwe)
+
+- update info about food app
+- fixed text position in credit card
+
 ### Version 1.1.0
 
 #### July 16, 2023 (Author: Zay Yar Tun)
