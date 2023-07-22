@@ -30,9 +30,10 @@
 
 ### Version 1.1.2
 
-#### July 17, 2023 (Author: Zay Yar Tun)
+#### July 22, 2023 (Author: Zay Yar Tun)
 
 - update info about cloud
+- fix spelling for job
 
 ### Version 1.1.1
 

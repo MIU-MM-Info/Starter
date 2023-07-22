@@ -20,4 +20,4 @@ coding interview အတွက် HackerRank, Leetcode, NeetCode(With step by ste
 
 - [HackerRank](https://www.hackerrank.com/)
 - [NeetCode](https://neetcode.io/)
-- [HackerRank](https://leetcode.com/)
+- [LeetCode](https://leetcode.com/)
