@@ -28,6 +28,12 @@
 
 ## Changes
 
+### Version 1.1.2
+
+#### July 17, 2023 (Author: Zay Yar Tun)
+
+- update info about cloud
+
 ### Version 1.1.1
 
 #### July 17, 2023 (Author: Htain Lin Shwe)
