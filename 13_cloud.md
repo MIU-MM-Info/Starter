@@ -20,13 +20,13 @@ Practitioner -> Associate -> PROFESSIONAL -> SPECIALTY
 
 #### 2023 June - Cloud Practitioner exam coverage
 
-- Shared responsibility 
+- Shared responsibility
 - GuardDuty
 - Load balancer / ELB
 - EC2
 - S3
 - Consolidated billing
-- Organization 
+- Organization
 - NACL
 - Security Group
 - Well architected pillars
@@ -38,7 +38,7 @@ Practitioner -> Associate -> PROFESSIONAL -> SPECIALTY
 - Snowball
 - Route 53
 - Cloud Front
-- Edge location 
+- Edge location
 - Auto scaling
 - Lambda
 - SNS
@@ -52,11 +52,16 @@ Practitioner -> Associate -> PROFESSIONAL -> SPECIALTY
 ### AWS Solutions Architect Associate
 
 - Youtube course [ https://www.youtube.com/watch?v=Ia-UEYYR44s ]
+- Udemy course [ https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/ ]
 - [Solutions Architect](Solution_Architect_PDF.pdf)
 
+### AWS Developer Associate
+
+- Udemy course [ https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/ ]
 
 ## General
 
 - [Starter guide](A_Starters_Guide_To_Serverless_on_AWS.pdf)
 - Learning channel [ https://www.youtube.com/@BeABetterDev/videos ]
 - Pirate site [ https://tutsnode.net/category/it-software/aws/ ]
+- Practice Exam Questions(IMPORTANT) [ https://www.examtopics.com/ ]
