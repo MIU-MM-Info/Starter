@@ -32,6 +32,12 @@
 
 ## Changes
 
+### Version 1.1.5
+
+#### August 5, 2023 (Author: Zay Yar Tun)
+
+- update driving license
+
 ### Version 1.1.4
 
 #### July 29, 2023 (Author: Zay Yar Tun)
