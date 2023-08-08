@@ -58,6 +58,7 @@ Practitioner -> Associate -> PROFESSIONAL -> SPECIALTY
 ### AWS Developer Associate
 
 - Udemy course [ https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/ ]
+- AWS CERTIFIED DEVELOPER - ASSOCIATE EXAM PREP [ https://training.resources.awscloud.com/get-certified-developer-associate ]
 
 ## General
 
