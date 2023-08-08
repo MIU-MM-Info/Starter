@@ -32,6 +32,12 @@
 
 ## Changes
 
+### Version 1.1.6
+
+#### August 8, 2023 (Author: Htain Lin Shwe)
+
+- update behind the wheel driving license test information
+
 ### Version 1.1.5
 
 #### August 5, 2023 (Author: Zay Yar Tun)
