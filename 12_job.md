@@ -21,3 +21,14 @@ coding interview အတွက် HackerRank, Leetcode, NeetCode(With step by ste
 - [HackerRank](https://www.hackerrank.com/)
 - [NeetCode](https://neetcode.io/)
 - [LeetCode](https://leetcode.com/)
+
+## Recruiters (စီပီတီ လက်ခံသော)
+
+- [R1] (https://www.linkedin.com/in/zach-bastarache-a9b08910a/)
+- [R2] (https://www.linkedin.com/in/robplang/)
+- [R3] (https://www.linkedin.com/in/sam-booke/)
+- [R4] (https://www.linkedin.com/in/alec-esqueda-shrm-cp-b096a7172/)
+- [R5] (https://www.linkedin.com/in/kennedy-tornay-8a567612a/)
+- [R6] (https://www.linkedin.com/in/bharath-kumar-49a79111b/)
+- [R7] (https://www.linkedin.com/in/sadie-dietz/)
+- [R8] (https://www.linkedin.com/in/jon-ceron-172273b3/)

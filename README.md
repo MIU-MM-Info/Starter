@@ -32,6 +32,12 @@
 
 ## Changes
 
+### Version 1.1.7
+
+#### August 12, 2023 (Author: Zay Yar Tun)
+
+- update job
+
 ### Version 1.1.6
 
 #### August 8, 2023 (Author: Htain Lin Shwe)
