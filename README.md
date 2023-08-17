@@ -32,6 +32,12 @@
 
 ## Changes
 
+### Version 1.1.8
+
+#### August 16, 2023 (Author: Zay Yar Tun)
+
+- update driving license & buying car
+
 ### Version 1.1.7
 
 #### August 12, 2023 (Author: Zay Yar Tun)
