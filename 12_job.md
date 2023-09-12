@@ -14,6 +14,10 @@ Indeed, Simply Hired, Dice, ZipRecruiter စသည့် websites များ�
 
 https://github.com/topics/javascript-interview-questions
 
+## Linkedin Skill assessments
+
+https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes
+
 ## Practice
 
 coding interview အတွက် HackerRank, Leetcode, NeetCode(With step by step guidelines) စသည့် website များတွင် ပုံမှန် လေ့ကျင့်နိုင်သည်။

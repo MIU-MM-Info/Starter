@@ -1,6 +1,6 @@
 # Driving License
 
-ယာဉ်မောင်းလိုင်စင်အတွက် ၂ဆင့် ဖြေဆိုရမည်ဖြစ်ပြီး knowledge test and driven test ဟူ၍ ရှိသည်။
+ယာဉ်မောင်းလိုင်စင်အတွက် ၂ဆင့် ဖြေဆိုရမည်ဖြစ်ပြီး knowledge test and driving test ဟူ၍ ရှိသည်။
 
 Knowledge test အတွက် လိုအပ်ချက်များမှာ
 
