@@ -12,7 +12,7 @@ Knowledge test အတွက် လိုအပ်ချက်များမှ�
 
 အောင်လျှင် $6 ပေးသွင်းရမည်။
 
-# FAIRFIELD မြို့အတွက် Knowledge test or Driving test(Behind the wheel) appointment ယူရန်
+# FAIRFIELD မြို့အတွက် Knowledge test only appointment ယူရန်
 
 [https://www.picktime.com/JeffersonCountyDL](https://www.picktime.com/JeffersonCountyDL)
 
@@ -42,16 +42,19 @@ Behind the wheel / Driving test အတွက် လိုအပ်ချက်�
 
 အောင်လျှင် $8 ပေးသွင်းရမည်။
 
-## FAIRFIELD မဟုတ်သော အခြားမြို့များတွင် Driving test(Behind the wheel) Appointment
+Knowledge test အောင်မြင်ပြီး ကဒ်ရရှိမှ Driving test အတွက် appointment ယူနိုင်သည်၊ စာရွက်နှင့် appointment ယူ၍ မရပါ။
 
-[Appointment](https://smsqmatic.iowadot.gov/qmaticwebbooking/index.html) ယူရာတွင် ၂မျိုးရှိပြီး ပေးထားသော link မှာ ကျောင်းနှင့်အနီးရှိ မြို့များတွင် appointment booking တင်ရန်ဖြစ်ပါသည်။
+Driving test ဖြေဆိုပြီး ကျလျှင် Appintment ပြန်ယူပြီး ဖြေဆိုင်နိုင်ပါသည်။ ပုံမှန် ၁ ပတ် စောင့်ဆိုင်းပြီးမှသာ appointment ပြန် ယူနိုင်သည်။
+
+## FAIRFIELD မြို့တွင် Driving test(Behind the wheel) Appointment ယူရန်
 
 ကျောင်းနားရှိ Jefferson County တွင် appointment ယူမည်ဆိုပါက လတိုင်း၏ နောက်ဆုံးအပတ် တနင်္လာနေ့တွင် Knowledge test ဖြေခဲ့သော နေရာတွင် လူကိုယ်တိုင် သွားရောက် ယူရမည် ဖြစ်သည် (သို့မဟုတ်) ဖုန်းဆက်ကာ ယူနိုင်သည်။ (လူများသည့်အတွက်ကြောင့် မနက် ၃/၄နာရီ သွားစောင့်ကြသည်၊ winter break, summer break များတွင်တော့ သက်တောင့်သက်သာ ရနိုင်သည်)။
 
 641 472 2349 / 51 W. Briggs Ave
-Knowledge test အောင်မြင်ပြီး ကဒ်ရရှိမှ Driving test အတွက် appointment ယူနိုင်သည်၊ စာရွက်နှင့် appointment ယူ၍ မရပါ။
 
-Driving test ဖြေဆိုပြီး ကျလျှင် Appintment ပြန်ယူပြီး ဖြေဆိုင်နိုင်ပါသည်။ ပုံမှန် ၁ ပတ် စောင့်ဆိုင်းပြီးမှသာ appointment ပြန် ယူနိုင်သည်။
+## FAIRFIELD မဟုတ်သော အခြားမြို့များတွင် Driving test(Behind the wheel) Appointment ယူရန်
+
+[Appointment](https://smsqmatic.iowadot.gov/qmaticwebbooking/index.html) ယူရာတွင် ၂မျိုးရှိပြီး ပေးထားသော link မှာ ကျောင်းနှင့်အနီးရှိ မြို့များတွင် appointment booking တင်ရန်ဖြစ်ပါသည်။
 
 ## Route
 
