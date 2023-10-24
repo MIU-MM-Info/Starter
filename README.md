@@ -25,12 +25,19 @@
 
 - [Job](12_job.md)
 - [Cloud](13_cloud.md)
+- [LoanPayment](16_paymentplans.md)
 
 ## F2
 
 - [F2](15_f2dependent.md)
 
 ## Changes
+
+### Version 1.2.1
+
+#### October 24, 2023 (Author: Zay Yar Tun)
+
+- add payment plans
 
 ### Version 1.2.0
 
