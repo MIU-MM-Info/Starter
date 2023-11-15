@@ -16,7 +16,7 @@ Fairfield Waterworks Office တွင် ရေ နှင့် အမှို�
 
 ## Internet
 
-အသင့်တော်ဆုံး အကြံသည် ကျောင်းရှိ library တွင် free ကပ်သုံးခြင်းဖြစ်ပြီး အိမ်တွင် တပ်ဆင်မည်ဆိုပါက Kinetic နှင့် Mediacom တို့ ရှိသည်။ အိမ်တွင် အမြဲနီးပါး နေလျှက် လူ ၃/၄ ယောက်ခန့် သုံးမည်ဆိုပါက Mediacom မှာ $100 ပတ်ချာလည် ကျသင့်နိုင်သည်။
+အင်တာနက် တပ်ဆင်မည်ဆိုပါက Kinetic နှင့် Mediacom တို့ ရှိသည်။ အိမ်တွင် အချိန်ပြည့်နီးပါး လူ ၃/၄ ယောက်ခန့် သုံးမည်ဆိုပါက Mediacom မှာ $100 ပတ်ချာလည် ကျသင့်နိုင်သည်။
 
-[Kinetic](https://www.windstream.com/high-speed-internet)
-[Mediacom](https://mediacomcable.com/)
+- [Kinetic](https://www.windstream.com/high-speed-internet)
+- [Mediacom](https://mediacomcable.com/)
