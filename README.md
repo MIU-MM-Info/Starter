@@ -2,7 +2,7 @@
 
 ဒီ repo သည် Maharashi University သို့ လာရောက် တက်ရောက်မည့် ကျောင်းသားကျောင်းသူများ အတွက် အသုံးပြုရန် Guide ဖြစ်သည်။
 
-## ကျောင်းမရောင်ခင်
+## ကျောင်းမရောက်ခင်
 
 - [မလာခင် ပြင်ဆင်ခြင်း](01_prepare.md)
 - [Airport Entry / Immigration](02_airport.md)
@@ -27,11 +27,22 @@
 - [Cloud](13_cloud.md)
 - [LoanPayment](16_paymentplans.md)
 
+## အိမ်ငှား
+
+- [HouseRental](17_houserental.md)
+
 ## F2
 
 - [F2](15_f2dependent.md)
 
 ## Changes
+
+### Version 1.2.2
+
+#### Nov 14, 2023 (Author: Zay Yar Tun)
+
+- update paymentplans
+- add house rental
 
 ### Version 1.2.1
 
