@@ -37,6 +37,12 @@
 
 ## Changes
 
+### Version 1.2.4
+
+#### Nov 14, 2023 (Author: Zay Yar Tun)
+
+- update credit card
+
 ### Version 1.2.3
 
 #### Nov 14, 2023 (Author: Zay Yar Tun)
