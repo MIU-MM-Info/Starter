@@ -29,7 +29,7 @@
 
 ## အိမ်ငှား
 
-- [HouseRental](17_houserental.md)
+- [House Rental](17_houserental.md)
 
 ## F2
 
