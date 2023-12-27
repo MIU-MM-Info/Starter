@@ -42,3 +42,8 @@ Online မှ ပစ္စည်းဝယ်လျှင် တိုက်ရ�
 | Shokai          | Japanese Food                             | $14 - 17    |
 
 > McDonald, Burger King တို့ကို App ကနေ တဆင့် မှာယူနိုင်သည်။ Point ရနိုင်သလို နေ့စဥ် Deal တွေကြောင့် buy one get one free လည်း ရနိုင်သည်။
+
+
+## ကျောင်းအနီးအနားမြို့
+
+ကားရှိလျှင် Fairfield ဝန်းကျင် ရှိ မြို့များ ဆီ သွားရောက် စားသောက်နိုင်သည်။ ဥပမာ Thai စာ ကို Mt Pleasant က [Pad Thai Resturant](https://maps.app.goo.gl/JkxZLLVY2sQ2SkkR8) တွင် ရနိုင်သည်။ Buffet ကို Ottumwa မှာ [China Star] (https://maps.app.goo.gl/NwECzqtzrw5Ej5hUA) တွင်​ရနိုငသည်။
