@@ -25,7 +25,7 @@
 
 - [Job](12_job.md)
 - [Cloud](13_cloud.md)
-- [LoanPayment](16_paymentplans.md)
+- [Loan Payment](16_paymentplans.md)
 
 ## အိမ်ငှား
 
