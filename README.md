@@ -37,6 +37,14 @@
 
 ## Changes
 
+### Version 1.2.5
+
+### Dec 27, 2023 (Author: Htain Lin Shwe)
+
+- Interview tips များ ထည့်ထားသည်
+- iOS interview questions list များ ထည့်ထားသည်
+- typo အချို့ ပြင်ထားသည်
+
 ### Version 1.2.4
 
 #### Nov 14, 2023 (Author: Zay Yar Tun)
