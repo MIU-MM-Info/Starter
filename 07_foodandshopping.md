@@ -19,7 +19,7 @@
 
 ## Cash Back
 
-Online မှ ပစ္စည်းဝယ်လျှင် တိုက်ရိုက် ဝယ်ခြင်းထက် cash back service များမှ ဝယ်လျှင် Cash back percentage ပြန်ရသည်။ လူသုံးများသည့် Cash Back service မှာ [Rakuten](www.rakuten.com/r/SATURN1234) ဖြစ်သည်။ ဝယ်ယူလိုသည့် website မသွားခင် rakuten website မှ တဆင့်သွားခြင်းဖြင့် cash back ရနိုင်သည်။ ဥပမာ Temu ကို raukten website မှ တဆင့် cash back ဝယ်လျှင် 10% cash back ပြန်ရသည်။
+Online မှ ပစ္စည်းဝယ်လျှင် တိုက်ရိုက် ဝယ်ခြင်းထက် cash back service များမှ ဝယ်လျှင် Cash back percentage ပြန်ရသည်။ လူသုံးများသည့် Cash Back service မှာ [Rakuten](https://www.rakuten.com/r/SATURN1234) ဖြစ်သည်။ ဝယ်ယူလိုသည့် website မသွားခင် rakuten website မှ တဆင့်သွားခြင်းဖြင့် cash back ရနိုင်သည်။ ဥပမာ Temu ကို raukten website မှ တဆင့် cash back ဝယ်လျှင် 10% cash back ပြန်ရသည်။
 
 ## ဟင်းချက်ဖို့ ဝယ်ရန်
 
