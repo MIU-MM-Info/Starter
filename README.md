@@ -10,6 +10,7 @@
 ## ကျောင်းအတွင်း
 
 - [Entry Test](03_entrytest.md)
+- [Links](18_links.md)
 - [MIU App](14_miuapp.md)
 - [Courses](04_courses.md)
 - [Driving License](05_drivinglicense.md)
@@ -26,6 +27,7 @@
 - [Job](12_job.md)
 - [Cloud](13_cloud.md)
 - [Loan Payment](16_paymentplans.md)
+- [Sponsor](19_sponsor.md)
 
 ## အိမ်ငှား
 
@@ -35,7 +37,19 @@
 
 - [F2](15_f2dependent.md)
 
+## Degree
+
+- [Master's Degree](20_degree.md)
+
 ## Changes
+
+### Version 1.2.6
+
+#### Jan 21, 2024 (Author: Zay Yar Tun)
+
+- add links page
+- add sponsor page
+- add degree page
 
 ### Version 1.2.5
 
