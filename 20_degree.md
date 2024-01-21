@@ -1,4 +1,4 @@
-# Degree
+# [Degree](https://www.cs.miu.edu/mum/mscs-degree-graduation-requirements/)
 
 မဟာရီးရှီး တက္ကသိုလ်ထံမှ မာစတာ ဘွဲ့ရယူရန်အတွက် လိုအပ်ချက်များမှာ အောက်ပါအတိုင်း ဖြစ်ပါသည်။
 
@@ -26,7 +26,7 @@
 
 ### ဒုတိယလမ်းကြောင်း
 
-အခြား နည်းလမ်းများဖြင့် အီးအေဒီ(အလုပ်လုပ်ခွင့်ကဒ်) ရရှိပြီး အလုပ်လုပ်ပါက ကျောင်းမှ လက်မှတ် ထိုးပေးစရာမလိုပေ၊ အလုပ်လုပ်နေဆဲ ကာလတွင် CPT REPORT အတွက် Assignment များ ရေးကာ တင်ရမည်။
+အခြား နည်းလမ်းများဖြင့် အီးအေဒီ(အလုပ်လုပ်ခွင့်ကဒ်) ရရှိပြီး အလုပ်လုပ်ပါက ကျောင်းမှ လက်မှတ် ထိုးပေးစရာမလိုပေ၊ အလုပ်လုပ်နေဆဲ ကာလတွင် CPT REPORT အတွက် Assignment များ ရေးကာ တင်ရမည်။ မိမိသည် ကျောင်းတက်လက်စ ကျောင်းသား ဖြစ်နေရမည်(course များ အားလုံး တက်ရောက်ပြီးစီးသူ မဖြစ်နေရ)။
 
 ## OPT
 
@@ -50,21 +50,17 @@ M.I.U. holds a graduation ceremony once per academic year in June for both Decem
 
 To graduate, students must apply using the link below; failure to apply would mean that your name won't be included in the list of graduates, and you won't be able to receive your diploma. Please be sure to carefully follow the instructions.
 
-Before submitting a graduation application, you must click the following link to confirm that you have completed the graduation requirements.
-
-https://www.cs.miu.edu/mum/mscs-degree-graduation-requirements
+Before submitting a graduation application, you must click the following [link](https://www.cs.miu.edu/mum/mscs-degree-graduation-requirements) to confirm that you have completed the graduation requirements.
 
 Please remember that if you choose to graduate as an F-1 student, your work authorization will end on the graduation date, and you will no longer be able to continue with CPT.
 
-1. Click the link and follow the instructions to pay the graduation application fees:
-
-https://students.miu.edu/graduation-application
+1. Click the [link](https://students.miu.edu/graduation-application) and follow the instructions to pay the graduation application fees:
 
 You must pay the $85 fee if you intend to attend the graduation ceremony in person so that the university can purchase your cap and gown. If not, $35.
 
 Email me the copy of the payment receipt once you've made it so that I can keep track of it. You won't be able to attend the graduation ceremony if you don't pay the fee because there will be no cap & gown to walk on the stage. Please include your Student ID each time you email us.
 
-2. As part of MIU’s evaluation and academic improvement process, you must complete the MSCS End of Program survey found at: https://app.surveymethods.com/EndUser.aspx?F0D4B8A0F8B1A2A1FA
+2. As part of MIU’s evaluation and academic improvement process, you must complete the MSCS End of Program survey found [at](https://app.surveymethods.com/EndUser.aspx?F0D4B8A0F8B1A2A1FA):
 
 3. The following financial requirements must be met by all students seeking to attend the December 202x graduation.
 
@@ -84,18 +80,16 @@ Email me the copy of the payment receipt once you've made it so that I can keep 
 
 - If you think you have completed all the dues to zero balance, I need the confirmation emails from the departments mentioned below.
 
--- a. Midwest one Bank loan: Contact Diane Beeman DBeeman@midwestone.com or Ron Haines <RHaines@midwestone.com>. Please be sure to include a loan or checking account number in the email.
+  - a. Midwest one Bank loan: Contact Diane Beeman DBeeman@midwestone.com or Ron Haines <RHaines@midwestone.com>. Please be sure to include a loan or checking account number in the email.
 
--- b. D.E. Outstanding Dues: "Computer Science Distance Edu." csde@miu.edu.  
-If you have questions about amounts owed to the D.E. Office, you can contact csdedirector@miu.edu & csde@miu.edu.
+  - b. D.E. Outstanding Dues: "Computer Science Distance Edu." csde@miu.edu.  
+    If you have questions about amounts owed to the D.E. Office, you can contact csdedirector@miu.edu & csde@miu.edu.
 
--- c. Student Account Balance: Student Accounts stuacct@miu.edu.
-Click the link for the payment https://students.miu.edu/finances/payment
-If you have questions about your student account balance, first you need to contact csfinance@miu.edu after that, you can contact the Student Accounts Office at stuacct@miu.edu. The phone number is 641-470-1341.
+  - c. Student Account Balance: Student Accounts stuacct@miu.edu. Click the [link](https://students.miu.edu/finances/payment) for the payment ( If you have questions about your student account balance, first you need to contact csfinance@miu.edu after that, you can contact the Student Accounts Office at stuacct@miu.edu. The phone number is 641-470-1341. )
 
 ### Do NOT list an M.I.U. degree on U.S. Immigration applications, company background checks, or resumes until receiving your Diploma.
 
-The MSCS degree is conferred on the graduation date. If you need to order an official copy of your transcript or a letter stating that you have completed the MSCS graduation requirements and are expected to graduate in December or June, you can order it from M.I.U. website at https://students.miu.edu/transcript-and-verification-requests. If you have questions about the transcript or letter, please contact the Transcripts Office at transcripts@miu.edu. The number is 641-472-1157.
+The MSCS degree is conferred on the graduation date. If you need to order an official copy of your transcript or a letter stating that you have completed the MSCS graduation requirements and are expected to graduate in December or June, you can order it from M.I.U. [website](https://students.miu.edu/transcript-and-verification-requests). If you have questions about the transcript or letter, please contact the Transcripts Office at transcripts@miu.edu. The number is 641-472-1157.
 
 Note: Students who are planning to enroll in elective courses or the Specialization Program after meeting all the academic requirements will not be able to graduate this December because elective courses are part of the MSCS program. These students will graduate after completing the elective course or Specialization Program.
 

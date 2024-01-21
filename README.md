@@ -43,6 +43,12 @@
 
 ## Changes
 
+### Version 1.2.7
+
+#### Jan 21, 2024 (Author: Zay Yar Tun)
+
+- fix degree page
+
 ### Version 1.2.6
 
 #### Jan 21, 2024 (Author: Zay Yar Tun)
