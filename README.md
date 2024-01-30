@@ -43,6 +43,13 @@
 
 ## Changes
 
+### Version 1.2.8
+
+#### Jan 29, 2024 (Author: Zay Yar Tun)
+
+- add resume references page
+- add interview references page
+
 ### Version 1.2.7
 
 #### Jan 21, 2024 (Author: Zay Yar Tun)
