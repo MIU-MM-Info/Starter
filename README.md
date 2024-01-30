@@ -28,8 +28,8 @@
 - [Cloud](13_cloud.md)
 - [Loan Payment](16_paymentplans.md)
 - [Sponsor](19_sponsor.md)
-- [ResumeReferences](21_resumereferences.md)
-- [InterviewReferences](22_interviewreferences.md)
+- [Resume References](21_resumereferences.md)
+- [Interview References](22_interviewreferences.md)
 
 ## အိမ်ငှား
 
