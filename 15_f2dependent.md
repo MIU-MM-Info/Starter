@@ -2,6 +2,8 @@
 
 Booking တင်ပြီး I-20, passport, I-94, proof of physical address ယူသွားပါ။ SSN တောင်းတဲ့အခါ Dependent of a F1, no work authorization, no SSN ဆိုတဲ့အကြောင်း DMV ကိုပြောပြပါ။
 
+Illionis တွင် နေထိုင်ပါက Temporary Visitor Driver's License (TVDL) ကို လျှောက်ထားရန် လိုအပ်သည်။ TVDL သည် Illionis တွင် ၁ နှစ် နေထိုင်ထားကြောင်း အထောက်အထားပြရန် လိုအပ်သည်။
+
 ## Proof of address ရနိုင်မယ့် နည်းလမ်းများ
 
 - Rental Lease အိမ်ရှင်အိမ်ငှား စာချုပ် လက်မှတ်ထိုးပြီး ယူသွားပါ။
