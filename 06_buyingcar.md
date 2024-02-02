@@ -23,3 +23,11 @@ Insurace ၀ယ်ယူလျှင်လည်း permit card ကို မဖ
 # Selling Car
 
 ကားရောင်းသည့်အခါ Print ထုတ်ပြီး ဖြည့်စွက်ရန် bill of sale [ https://www.iowatreasurers.org/kcfinder/upload/Bill%20of%20Sale..pdf ]
+
+# Notes
+
+ငွေ တတ်နိုင်လျှင် Iowa/Chicago တွင် ကားကို စိတ်ကြိုက် ရွေး၀ယ်သင့်ပြီး ပြောင်းမည့် ပြည်နယ်သို့ မောင်းလာဖို့ရန် အကြံပြုပါသည်။
+
+# App
+
+[Autolist App](https://www.autolist.com/) အသုံးပြုပြီးသား ကားများ ၀ယ်ရာတွင် ဤ application မှ ရှာဖွေနိုင်သည်။

@@ -1,4 +1,4 @@
-# 1
+# 1 PHP Interview
 
 - Career strategies အတန်းတက်စဥ် လျှောက်လိုက်မိသော ကုမ္ပဏီမှ အင်တာဗျူး
 - New Jersey မှ ကုမ္ပဏီ၊ လူဦးရေ နည်းသည်၊ email နှင့်ပင် အသွားအပြန် လုပ်ကာ ကုမ္ပဏီအကြောင်း၊ culture ဘာညာ ပြောဖြစ်သည်
@@ -14,19 +14,19 @@
 - ကုမ္ပဏီသည် start up ဟု ခံစားမိပြီး အလုပ်လုပ်ရမည်ကို ပျင်းကာ serious မဖြစ်မိ
 - အားကစား / ၀ါသနာ / အားလပ်ချိန် သေချာ conversation မပြောမိ
 
-# 2
+# 2 PHP Interview
 
 - ဂျပိုးသတ်ဆေး ဘာညာ ကိရိယာ နှင့် အခြား ဆက်စပ်ရာ အစုံ ရောင်းသော ကုမ္ပဏီမှ အင်တာဗျူး
 - ဖုန်းဖြင့်ပင် တိုက်ရိုက် technical interview
 - စာကြည့်ထားသော်လည်း မသိသည့် အချက်များကို ပေါ့ပျက်ပျက် ဖြေမိ၍ ကျသည်
-  > php
-  > oop
-  > type declarations
-  > trait
-  > interface vs abstract
-  > mysql
-  > get / post
-  > form
+  > php |
+  > oop |
+  > type declarations |
+  > trait |
+  > interface vs abstract |
+  > mysql |
+  > get / post |
+  > form |
   > ternary operator
 
 # Mistakes
@@ -34,7 +34,7 @@
 - သေချာ လေးစားသမှုဖြင့် မဖြေခဲ့မိ
 - ကုမ္ပဏီကောင်းမို့ နောင်တရမိ
 
-# 3
+# 3 PHP Interview
 
 - Nebraska digital agency ကုမ္ပဏီမှ အင်တာဗျူး
 - ဖုန်းဖြင့်ပင် resume ထဲရှိ လုပ်ခဲ့သမျှ project အကုန်ကို တစ်ခုချင်းစီ ပြောခိုင်းသည်
@@ -45,7 +45,7 @@
 - Drupal ဖြင့် CMS အဓိက ခေါ်သည်ကို လျှောက်မိ / လုပ်ချင်သည်က Web App Dev
 - insurance / လစာ / relocation support ဘာဆို ဘာမှ မမေးမိ
 
-# 4
+# 4 PHP Interview
 
 - Nebraska ကုမ္ပဏီမှ အင်တာဗျူး
 - ဘာညာ မိတ်ဆက် google meet call
@@ -59,24 +59,24 @@
 - insurance / လစာ / relocation support ဘာဆို ဘာမှ မမေးမိ
 - အလုပ်ရ ပြီးရော / ညှိနှိုင်းမှု မလုပ်တတ်၊ မလုပ်နိုင်ခဲ့
 
-# 5
+# 5 PHP Interview
 
 - New Jersey ကုမ္ပဏီမှ အင်တာဗျူး
 - Recruiter နှင့် အင်တာဗျူး
 - Team manager နှင့် ဘာညာ google meet call
 - Team manager နှင့် google meet call / live coding test ဟု ပြောသော်လည်း နှုတ်ဖြင့်သာ မေးသွား
-  > docker
-  > mongo vs MySQL
-  > MySQL joins
-  > cache
-  > queue
-  > cron job
-  > aws
-  > api data validation
-  > framework upgrade
-  > Elastic search
-  > Redis
-  > RabbitMQ
+  > docker |
+  > mongo vs MySQL |
+  > MySQL joins |
+  > cache |
+  > queue |
+  > cron job |
+  > aws |
+  > api data validation |
+  > framework upgrade |
+  > Elastic search |
+  > Redis |
+  > RabbitMQ |
   > resume ထဲရှိ ပါသမျှ project အကုန် တစ်ခုချင်းစီ မေး
 - Lead manager နှင့် အင်တာဗျူး ရှိသော်လည်း သူ ခရီးထွက်နေ၍ မဖြေလိုက်ရ
 - Nebraska အလုပ်ကို လက်ခံလိုက်ပြီ အသိပေးတော့ counter offer ပေး
@@ -97,7 +97,7 @@
 - ထမင်းချက် ဟင်းချက်၊ ဂိမ်းဆော့ နေမိပြီး အားမရ
 - ALG စာ ၊ အလုပ်အတွက် စာ ၂မျိုးခွဲ ကြည့်ရသဖြင့် အားမရ
 - အလုပ်တွေလျှောက် ၊ အင်တာဗျူး ဖြေနေသော်လည်း အလုပ်နှင့်ကုမ္ပဏီကို သေချာ မစူးစိုက်မိ
-- ၁လလျှင် အင်တာဗျူး ၂ခုခန့်ရပြီး ရလျှင်လည်း ၂ခု တစ်ပြိုင်နက်ဖြစ်သောအခါ ဘာလုပ်ရမှန်း မသိတော့ပဲ ကြောင်ပျောက်
+- ၁လလျှင် အင်တာဗျူး ၂ခုခန့်ရပြီး ရလျှင်လည်း ၂ခု တစ်ပြိုင်နက် ဖြစ်သောအခါ ဘာလုပ်ရမှန်း မသိတော့ပဲ ကြောင်ပျောက်(အလုပ်တစ်ခု အင်တာဗျူး လာသည်နှင့် သေချာ စုံစမ်း ပြုစု ပြင်ဆင်သင့်)
 - ဖြေသမျှ အင်တာဗျူး ၁၀/၁၅ခု ပတ်ချာလည်တွင် တကယ် အလုပ်၀င်ချင်သည့် ကုမ္ပဏီ ၂ခုသာရှိ
 
 # Website

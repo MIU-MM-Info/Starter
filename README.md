@@ -45,6 +45,12 @@
 
 ## Changes
 
+### Version 1.3.0
+
+#### Feb 1, 2024 (Author: Zay Yar Tun)
+
+- update info
+
 ### Version 1.2.9
 
 #### Jan 30, 2024 (Author: Htain Lin Shwe)
