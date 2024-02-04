@@ -53,4 +53,11 @@
      - They can't check those tiny details of your past experience.
      - What really matters is we MUST showcase we got the skills and know the usual workflow/process in US! So, you are the guy they looking and you can get easily integrated into this new job.
 
-  # My other advice
+  # Other Things 
+  1. Apply - Practice, Apply - Practice
+     - People say "When you are jobless, searhing for a job is your job" and it's absolutely true.
+     - But I think brushing up our skills and trying to be ready for any upcoming interviews are just as important.
+     - Personally for me, it's been quite a while since I try looking for a job, so there were many things I need to know and learn. So I spent the half of my days to apply for jobs and half to learn the required skills.
+     -  For frontend developers, not only algorithms
+  3. Behavior Questions
+  4. Be Patient and your time will come
