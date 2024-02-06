@@ -45,6 +45,10 @@
 
 ## Changes
 
+### Version 1.3.1
+
+- update Sundy Thawdarr Shwe expereince
+
 ### Version 1.3.0
 
 #### Feb 1, 2024 (Author: Zay Yar Tun)
