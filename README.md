@@ -30,6 +30,7 @@
 - [Sponsor](19_sponsor.md)
 - [Resume References](21_resumereferences.md)
 - [Interview References](22_interviewreferences.md)
+- [Salary Calulation](23_salary.md)
 
 ## အိမ်ငှား
 
@@ -44,6 +45,11 @@
 - [Master's Degree](20_degree.md)
 
 ## Changes
+
+### Version 1.3.2
+#### Feb 9, 2024 (Author: Htain Lin Shwe)
+
+- add Salary Calulation
 
 ### Version 1.3.1
 
