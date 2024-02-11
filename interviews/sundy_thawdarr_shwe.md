@@ -15,7 +15,7 @@
       2. Frontend React
       3. Fullstack
     - Then I submitted the resume based on the positions I applied. But I focused more on Frontend.
-    - (please contact me from Messenger if anyone wants my resumes)
+    - (Pls conact me or Zayyar for password of the resume zip file)
   3. **Watch many interview videos on Youtube!** They are where we can observe other people doing interviews and get Interview sense for free!
      - Watching interview videos on Youtube really helped me experience how the IT interviews are done in US market.
      - Interview experiences and the technical terms are what I was mostly lacking.
@@ -65,14 +65,14 @@
         - LinkedIn assessment quizz Answers 😎 :  [https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/)  
 > About Hackerrank, I got Javascript(Basic, Intermidate), React(Basic) and Angular(Basic).  <br>I posted those in my LinkedIn profile as well and not sure if it's a coincidence or not, I got my BOA interview a short while after my angular certificate and I didn't get asked too much in my interviews like before. It's like they already knew I could do it so just asked some easy questions to confirm my skills. <br> OR.. it may because, by that time, I'm pretty much skillful in Angular interview after all the practices and tests I did, so I found the interview quite easy. 
 <br>Anyway, I encourage anyone to try Hackerrank Certificates if you could.
-<br>For anyone who is trying Frontend positions, I could share my collection of notes if interested.
+<br>For anyone who is trying Frontend positions, I had shared my collection of notes in my resume zip file.
 
   2. **Behavior Questions**
      - Behavior Questions always come even in the online tests I had to take from the links given.
      - I was asked to record a video of me answering those questions and was given one minute to prepare. Some companies allow to re-take the videos and some won't allow.
      - When faced a situation like this, it's really helpful if you are a good story teller as I said above 😅
      - I think we should prepare about 3 projects and at least 7 scenarios for behavior quesitions following STAR format.
-     - I have a very good excel sheet given by Amazon to prepare for thier interviews but it is based on their leadership principles. Still, it's a very good way to preapre for the behaviour questions. Anyone interested can request from me from the messenger.
+     - I have a very good excel sheet given by Amazon to prepare for thier interviews but it is based on their leadership principles. Still, it's a very good way to preapre for the behaviour questions. Focus on 'Resume De-construction' tab. It is in my resume zip file. (Pls conact me or Zayyar for password)
   3. **Be Patient and your time will come**
      - According to my personal experience during the job search, sometimes I felt very down, sometimes I felt hopeful and sometime I felt like giving up.
      - I think that's what everyone who trying to find a job feels and the more time it takes, the worst it gets. We are just being our adult selves and deal with it in our own ways.
