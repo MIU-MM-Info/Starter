@@ -26,7 +26,7 @@
 
 ### ဒုတိယလမ်းကြောင်း
 
-အခြား နည်းလမ်းများဖြင့် အီးအေဒီ(အလုပ်လုပ်ခွင့်ကဒ်) ရရှိပြီး အလုပ်လုပ်ပါက ကျောင်းမှ လက်မှတ် ထိုးပေးစရာမလိုပေ၊ အလုပ်လုပ်နေဆဲ ကာလတွင် CPT REPORT အတွက် Assignment များ ရေးကာ တင်ရမည်။ မိမိသည် ကျောင်းတက်လက်စ ကျောင်းသား ဖြစ်နေရမည်(course များ အားလုံး တက်ရောက်ပြီးစီးသူ မဖြစ်နေရ)။
+အခြား နည်းလမ်းများဖြင့် အီးအေဒီ(အလုပ်လုပ်ခွင့်ကဒ်) ရရှိပြီး အလုပ်လုပ်ပါက ကျောင်းမှ လက်မှတ် ထိုးပေးစရာမလိုပေ၊ အလုပ်လုပ်နေဆဲ ကာလတွင် CPT REPORT အတွက် Assignment များ ရေးကာ တင်ရမည်။ မိမိသည် ကျောင်းတက်လက်စ ကျောင်းသား ဖြစ်နေရမည်(course များ အားလုံး တက်ရောက်ပြီးစီးသူ မဖြစ်နေရ)။ အီးအေဒီဖြင့် အလုပ်လုပ်ခြင်းသည် ကျောင်းမှ လက်မှတ်ထိုးကာ ထုတ်ပေးသော CPT ဖြင့် အလုပ်လုပ်ခြင်းနှင့် မတူသည်ကို သတိထားဖို့ လိုပါသည်(အထူးသဖြင့် အီးအေဒီ သက်တမ်း)။
 
 ## OPT
 
@@ -38,6 +38,23 @@ OPT လမ်းကြောင်း ၀င်လိုပါက လိုအ�
 - အကြွေး ပမာဏ၏ ထက်၀က်မျှခန့် ဆပ်ထားပြီး ဖြစ်ဖို့ လိုသည်
 - တက်ရောက်ခဲ့သော ဘာသာရပ်များ၏ Grade ကောင်းဖို့ လိုသည်
 - အလုပ် မပြုတ်ရန် လိုသည်
+
+### About OPT and Bank loan (Source - Soe Thandar)
+
+——
+
+You must get your bank loan balance down to $30k by the time you apply OPT. You do not need to graduate in order to apply OPT.
+
+When you go to apply for STEM OPT extension, you must have your bank loan paid down to $12k in order to graduate as having Diploma is requirement of applying STEM OPT extension.
+
+About Graduation and bank loan
+—-
+Graduation is twice a year, Jun and Dec.
+You can apply graduation once you have fulfilled all your graduation requirements and financial criteria.
+
+You must get your bank loan balance down to $12k to graduate.
+
+In order to receive your diploma, you must pay your entire bank loan.
 
 ## Graduation
 

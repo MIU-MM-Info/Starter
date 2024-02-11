@@ -60,19 +60,19 @@ Driving test ဖြေဆိုပြီး ကျလျှင် Appintment ပ
 
 ### Fairfield
 
-![](./driving/fairfield1.jpeg)
+![](./images/driving/fairfield1.jpeg)
 
-![](./driving/fairfield2.jpeg)
+![](./images/driving/fairfield2.jpeg)
 
 ### Otumwa
 
-![](./driving/ottumwa1.jpeg)
+![](./images/driving/ottumwa1.jpeg)
 
-![](./driving/ottumwa2.jpeg)
+![](./images/driving/ottumwa2.jpeg)
 
 ### Burlington
 
-![](./driving/burlington.jpeg)
+![](./images/driving/burlington.jpeg)
 
 ## သတိထားသင့်သည့် အချက်များ
 
@@ -80,7 +80,7 @@ Driving test ဖြေဆိုပြီး ကျလျှင် Appintment ပ
 
 ### Stop
 
-![](./driving/stop1.png)
+![](./images/driving/stop1.png)
 
 Stop Sign တွေ့လျှင် ရပ်ပါ။​ ၃ စက္ကန့် ခန့် စောင့်ပါ။ မထွက်ခင် ဘယ်ကြည့် ညာကြည့် ကြည့်ပြီးမှ ထွက်ပါ။
 
@@ -88,7 +88,7 @@ Stop Sign တွေ့လျှင် ရပ်ပါ။​ ၃ စက္ကန�
 
 ### Stop All
 
-![](./driving/stop2.png)
+![](./images/driving/stop2.png)
 
 Stop All သို့မဟုတ် 4-Way ဆိုရင် လမ်းစုံတွေ ကား အားလုံး ရပ်မည်။ အရင် ရောက်သည့် ကား အရင် ထွက်ရမည်။
 
@@ -98,25 +98,25 @@ Stop All သို့မဟုတ် 4-Way ဆိုရင် လမ်းစု
 
 ### လမ်းဆုံ ဘယ် ညာ ကြည့်
 
-![](./driving/allpoint.png)
+![](./images/driving/allpoint.png)
 
 လမ်း ဆုံ တွင် အရှိန် နည်းနည်း လျော့ကာ ဘယ် ကြည့် ညာ ကြည့် ကြည့် ရမည်။ မကြည့်လျှင် အမှတ်တိုး နိုင်သည်။
 
 ### လမ်းကျဥ်း ကား ရပ် Lane Change
 
-![](./driving/langechange.png)
+![](./images/driving/langechange.png)
 
 ညာဘက် အခြမ်းတွေ ကား ရပ် ထားပါက ဘယ် ဘက် Lane ကို ယူ လိုက်ပါ။ ကား နား ကပ် ပြီး မသွားပါနှင့်။ အပြည့် အဝ Lane change လိုက်ပါ။ ရပ် ထားသည့် ကားသည် တံခါး ဖွင့် နိုင်သောကြောင့် ဖြစ်သည်။
 
 ### 90 Degree Turn
 
-![](./driving/90deg.png)
+![](./images/driving/90deg.png)
 
 လမ်းမ ကြီး ထွက်သည့် အခါမှာ 45 deg မျော မယူပဲ 90 degree turn လုပ်ရန် လိုအပ်သည်။
 
 ### တစ်ဖက် လမ်း ကွေ့ ခေါင်း နောက်လှည့်
 
-![](./driving/turnhead.png)
+![](./images/driving/turnhead.png)
 
 Central Lane ထဲ မဝင် ခင်မှာ
 
@@ -131,7 +131,7 @@ Central Lane ထဲ မဝင် ခင်မှာ
 
 ### Speed Limit
 
-![](./driving/speedlimit.png)
+![](./images/driving/speedlimit.png)
 
 Speed Limit သည် မှတ် တိုင် ရောက်မှ စ တွက် ခြင်းဖြစ်သည်။ မြင် သည့် နေရာမှာ တွက် ခြင်းမဟုတ်။
 

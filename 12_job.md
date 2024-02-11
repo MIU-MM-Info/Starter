@@ -12,7 +12,7 @@ Indeed, Simply Hired, Dice, ZipRecruiter စသည့် websites များ�
 
 ## Interview Questions
 
-ဦးစွာ interview questions list များကို စုဆောင်းပြီး အကုန်လုံး ဖြေနိုင်ရန် ကြိုးစားဖို့လိုသည်။ မသိခဲ့လျှင် coding ဖြင့်လေ့ကျင့်ရန် လိုအပ်သည်။ ပုံမှန်အားဖြင့် 
+ဦးစွာ interview questions list များကို စုဆောင်းပြီး အကုန်လုံး ဖြေနိုင်ရန် ကြိုးစားဖို့လိုသည်။ မသိခဲ့လျှင် coding ဖြင့်လေ့ကျင့်ရန် လိုအပ်သည်။ ပုံမှန်အားဖြင့်
 
 1. Screening Call. Technical questions နှင့် working background မေးတတ်သည်
 2. Technical Interview. Detail Technical questions များမေးတတ်သည်။ Interview Questions list တွင် ပုံမှန်အားဖြင့် မေးခွန်း ၁၀၀ ကျော်လောက်ရှိတတ်သည်။ လေ့ကျင့်ထားလျှင် အဆင်ပြေသည်။
@@ -28,7 +28,6 @@ Indeed, Simply Hired, Dice, ZipRecruiter စသည့် websites များ�
 - [https://github.com/HenestrosaDev/ios-interview-questions](https://github.com/HenestrosaDev/ios-interview-questions)
 - [https://github.com/AlanMaxwell/iOS_interview_questions](https://github.com/AlanMaxwell/iOS_interview_questions)
 
-
 ## Linkedin Skill assessments
 
 https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes
@@ -40,14 +39,3 @@ coding interview အတွက် HackerRank, Leetcode, NeetCode(With step by ste
 - [HackerRank](https://www.hackerrank.com/)
 - [NeetCode](https://neetcode.io/)
 - [LeetCode](https://leetcode.com/)
-
-## Recruiters (စီပီတီ လက်ခံသော)
-
-- [R1] (https://www.linkedin.com/in/zach-bastarache-a9b08910a/)
-- [R2] (https://www.linkedin.com/in/robplang/)
-- [R3] (https://www.linkedin.com/in/sam-booke/)
-- [R4] (https://www.linkedin.com/in/alec-esqueda-shrm-cp-b096a7172/)
-- [R5] (https://www.linkedin.com/in/kennedy-tornay-8a567612a/)
-- [R6] (https://www.linkedin.com/in/bharath-kumar-49a79111b/)
-- [R7] (https://www.linkedin.com/in/sadie-dietz/)
-- [R8] (https://www.linkedin.com/in/jon-ceron-172273b3/)

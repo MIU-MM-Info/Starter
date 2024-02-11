@@ -1,3 +1,7 @@
 # Resume References
 
-- [zay yar tun](./resumes/zay-yar-tun.pdf.zip)
+## zaytun.dev@gmail.com ကို email ပို့၍ google drive access တောင်းပါ
+
+- Zay Yar Tun
+
+- Sundy Thawdar Shwe

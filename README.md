@@ -46,7 +46,20 @@
 
 ## Changes
 
+### Version 1.3.4
+
+#### Feb 10, 2024 (Author: Zay Yar Tun)
+
+- update info
+
+### Version 1.3.3
+
+#### Feb 10, 2024 (Author: Sundy Thawdarr Shwe)
+
+- update Sundy Thawdarr Shwe experiences
+
 ### Version 1.3.2
+
 #### Feb 9, 2024 (Author: Htain Lin Shwe)
 
 - add Salary Calulation
@@ -55,7 +68,7 @@
 
 #### Feb 7, 2024 (Author: Sundy Thawdarr Shwe)
 
-- update Sundy Thawdarr Shwe expereince
+- update Sundy Thawdarr Shwe experiences
 
 ### Version 1.3.0
 
