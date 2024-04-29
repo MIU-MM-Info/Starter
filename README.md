@@ -46,13 +46,11 @@
 
 ## Changes
 
-- add Wint Nandar Lwin experiences
-
 ### Version 1.3.5
 
 #### Apr 29, 2024 (Author: Wint Nandar Lwin)
 
-- update info
+- add Wint Nandar Lwin job search experiences
 
 ### Version 1.3.4
 
@@ -64,7 +62,7 @@
 
 #### Feb 10, 2024 (Author: Sundy Thawdarr Shwe)
 
-- update Sundy Thawdarr Shwe experiences
+- update Sundy Thawdarr Shwe job search experiences
 
 ### Version 1.3.2
 
@@ -76,7 +74,7 @@
 
 #### Feb 7, 2024 (Author: Sundy Thawdarr Shwe)
 
-- update Sundy Thawdarr Shwe experiences
+- update Sundy Thawdarr Shwe job search experiences
 
 ### Version 1.3.0
 
