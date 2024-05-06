@@ -28,9 +28,9 @@
 - [Cloud](13_cloud.md)
 - [Loan Payment](16_paymentplans.md)
 - [Sponsor](19_sponsor.md)
-- [Resume References](21_resumereferences.md)
-- [Interview References](22_interviewreferences.md)
-- [Salary Calulation](23_salary.md)
+- [Interview References](21_interviewreferences.md)
+- [Salary Calulation](22_salary.md)
+- [EAD](23_ead.md)
 
 ## အိမ်ငှား
 
@@ -45,6 +45,12 @@
 - [Master's Degree](20_degree.md)
 
 ## Changes
+
+### Version 1.3.6
+
+#### May 5, 2024 (Author: Zay Yar Tun)
+
+- add info
 
 ### Version 1.3.5
 
