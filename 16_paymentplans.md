@@ -12,7 +12,7 @@ MidWestOne bank ဖြင့် ချိတ်ဆက်ရမည်ဖြစ်
 
 ကျောင်းဖြင့် ချိတ်ဆက်ရမည်ဖြစ်ပြီး ကနဉီး ပေးသွင်းငွေမှာ $8000 ဖြစ်သည်။ အတိုးနှုန်း မရှိသော်ငြား ၁၆လအတွင်း ကျန်သည့် ငွေပမာဏကို အပြီး ပေးသွင်းရမည်၊ အလုပ်ပြုတ်ခဲ့လျှင်လည်း ရပ်တန့်ခွင့် မရှိပါ၊ အကယ်၍ ပထမအကြိမ် မပေးသွင်းနိုင်ခဲ့သည်ရှိသော် ဒဏ်ငွေ $50 ပေးဆောင်ရမည်၊ ဒုတိယအကြိမ် မပေးသွင်းနိုင်ခဲ့သည်ရှိသော် Business Hold status သို့ ရောက်မည်ဖြစ်ပြီး ကျောင်းမှ transcript မပေး၊ ဘွဲ့မပေး၊ CPT/OPT ဆက်လက် မဆောင်ရွက်ပေး၊ CPT/I20 တို့ကို ဖျက်သိမ်းမည့် ပြစ်ဒဏ်များ ရှိသည်။
 
-# To receive your I-20 for work authorization, you must complete the financial steps of your onboarding. If you choose not to go forward with the bank loan, the only other option is to sign up for the Payment Plan (PPL) with our CS Finance Department.
+> To receive your I-20 for work authorization, you must complete the financial steps of your onboarding. If you choose not to go forward with the bank loan, the only other option is to sign up for the Payment Plan (PPL) with our CS Finance Department.
 
 # Overview:
 
