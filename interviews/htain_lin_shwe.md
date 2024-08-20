@@ -40,6 +40,16 @@
 - Assignment တစ်ခု ထပ် ဖြေရ။ Unit Test 80% coverage ဖြစ်ဖို့လို
 - အလုပ်ရ
 
+# 7 Mendix Software Engineer Interview
+
+- HR နဲ့ video call ပြော။ အဓိက English နဲ့ Behaivor question တွေ မေး။ အဓိက လက်ရှိ team cluture နဲ့ fit ဖြစ်မဖြစ် သိချင်။
+- Manger နဲ့ Technical Question တွေ ဖြေ။ အဓိက system design architecture တွေ မေး။
+- Senior Developer နဲ့ ထပ် ဖြေ။ AWS system design architecture တွေ မေး။
+- CEO နဲ့ final round အနေနဲ့ တွေ့။
+- အလုပ်ရ
+  
+> (Mendix ဖြင့်သည့် အတွက် System Design က ပိုအရေးပါ။)
+
 
 ## အတွေ့အကြုံ
 
