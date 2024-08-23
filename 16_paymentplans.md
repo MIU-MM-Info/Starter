@@ -8,7 +8,7 @@
 
 MidWestOne bank ဖြင့် ချိတ်ဆက်ရမည်ဖြစ်ပြီး မိမိ ပြန်လည် ပေးဆပ်ရမည့် ချေးငွေ ပမာဏကို ကျောင်းရှိ assistance မှ တွက်ချက်ပေးလိမ့်မည်။ ချမှတ်ထားသော စည်းကမ်းအရ ၂၄လထက် မပိုသော ကာလအတွင်း ပြန်လည် ပေးသွင်းရမည်ဖြစ်ပြီး လက်ရှိ အတိုးနှုန်းမှာ ၉% ဖြစ်သည်။ [ဖတ်ရှူရန်](https://www.cs.miu.edu/compro/jobsearch/joboffers.htm#Bank%20Loan)
 
-အတိုး တွက်ရန် တစ်လေ ဘယ်လောက် ဆပ်ရမည် စသည် တို့ကို တွက်ချက်ရန် [link](https://www.bankrate.com/loans/student-loans/student-loan-calculator/) တွင် အသုံးပြုနိုင်သည်။ One Time Payment နှင့် ကျောင်း မှ ဆပ်ခိုင်းသည့် ပမာဏ + ထပ်ဆောင်းလစဥ် ပမာဏ ကို ဆပ်မှသာ OPT ကို ရ ရန် ဖြစ်နိုင်မည်။ [Degree](20_degree.md) တွင် ဖတ်ရှုနိုင်သည်။
+အတိုး တွက်ရန် တစ်လေ ဘယ်လောက် ဆပ်ရမည် စသည် တို့ကို တွက်ချက်ရန် [link](https://www.bankrate.com/loans/student-loans/student-loan-calculator/) တွင် အသုံးပြုနိုင်သည်။ One Time Payment နှင့် ကျောင်း မှ ဆပ်ခိုင်းသည့် ပမာဏ + ထပ်ဆောင်းလစဥ် ပမာဏ ကို ဆပ်မှသာ OPT ကို လျှောက်ထားလို့ ရ နိုင်မည်။ [Degree](20_degree.md) တွင် ဖတ်ရှုနိုင်သည်။
 
 > You must get your bank loan balance down to $30k by the time you apply OPT. You do not need to graduate in order to apply OPT. When you go to apply for STEM OPT extension, you must have your bank loan paid down to $12k in order to graduate as having Diploma is requirement of applying STEM OPT extension.
 
