@@ -46,6 +46,13 @@
 
 ## Changes
 
+### Version 1.3.7
+
+#### Aug 22, 2024 (Author: Htain Lin Shwe)
+
+- add loan calculator
+- update F2
+
 ### Version 1.3.6
 
 #### May 5, 2024 (Author: Zay Yar Tun)
