@@ -1,13 +1,11 @@
 # [Compro Degree](https://www.cs.miu.edu/mum/mscs-degree-graduation-requirements/)
 
-မဟာရီးရှီး တက္ကသိုလ်ထံမှ ကွန်ပျူတာ မာစတာ ဘွဲ့ရယူရန်အတွက် လိုအပ်ချက်များမှာ အောက်ပါအတိုင်း ဖြစ်ပါသည်။
+မဟာရီရှီ တက္ကသိုလ်ထံမှ ကွန်ပျူတာ မာစတာ ဘွဲ့ရယူရန်အတွက် လိုအပ်ချက်များမှာ အောက်ပါအတိုင်း ဖြစ်ပါသည်။
 
-- ကျောင်း၏ အကြွေးကို ပြန်ဆပ်ရန် ငွေ
-- ဘဏ်၏ အကြွေးကို ပြန်ဆပ်ရန် အသပြာ
-- ပိုက်ဆံ နှင့် ငွေအသပြာ
+- ကျောင်း၏ အကြွေးကို ပြန်ဆပ်ရန် ငွေပမာဏ
 - MPP ဘာသာရပ် အောင်မြင်ရမည်
 - 400 level ဘာသာရပ် ၄ခု အောင်မြင်ရမည်
-- Algorithms or Advanced Programming Languages ဘာသာရပ် နှစ်ခုအနက် တစ်ခု အောင်မြင်ရမည်
+- Algorithms or Advanced Programming Languages ဘာသာရပ် နှစ်ခုအနက် တစ်ခုကို at leat B- grade ဖြင့် အောင်မြင်ရမည်
 - one systems or analysis course(DBMS, RDBMS, Security, Cloud Computing, Computer Networks, Operating Systems, Parallel Programming, Compilers, Software Testing, Big Data Analytics, Systems Analysis, Project Management & Mobile Device Programming.) ဘာသာရပ်တို့အနက်မှ တစ်ဘာသာ အောင်မြင်ရမည်
 - 500 level ဘာသာရပ် ၄ခု အောင်မြင်ရမည်
 - အလုပ်လုပ်နေဆဲကာလတွင် CPT REPORT တင်ရမည်
@@ -30,14 +28,7 @@
 
 ## OPT
 
-OPT လမ်းကြောင်း ၀င်လိုပါက လိုအပ်ချက်များမှာ အောက်ပါအတိုင်း ဖြစ်ပါသည်။
-
-- ကျောင်း၏ အကြွေးကို ပြန်ဆပ်ရန် ငွေ
-- ဘဏ်၏ အကြွေးကို ပြန်ဆပ်ရန် အသပြာ
-- ပိုက်ဆံ နှင့် ငွေအသပြာ
-- အကြွေး ပမာဏ၏ ထက်၀က်မျှခန့် ဆပ်ထားပြီး ဖြစ်ဖို့ လိုသည်
-- တက်ရောက်ခဲ့သော ဘာသာရပ်များ၏ Grade ကောင်းဖို့ လိုသည်
-- အလုပ် မပြုတ်ရန် လိုသည်
+OPT လမ်းကြောင်း ၀င်လိုပါက OPT section တွင် အသေးစိတ် ဖတ်ရှူပါရန်
 
 ### About OPT and Bank loan (Source - Soe Thandar)
 

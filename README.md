@@ -31,6 +31,7 @@
 - [Interview References](21_interviewreferences.md)
 - [Salary Calulation](22_salary.md)
 - [EAD](23_ead.md)
+- [OPT](24_opt.md)
 
 ## အိမ်ငှား
 
@@ -45,6 +46,12 @@
 - [Master's Degree](20_degree.md)
 
 ## Changes
+
+### Version 1.3.8
+
+#### Aug 27, 2024 (Author: Zay Yar Tun)
+
+- add OPT doc
 
 ### Version 1.3.7
 

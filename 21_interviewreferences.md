@@ -11,3 +11,7 @@
 ## Angular
 
 - [Sundy Thawdar Shwe](./interviews/sundy_thawdarr_shwe.md)
+
+## Analyst
+
+- [Wint Nandar Lwin](./interviews/wint_nandar_lwin.md)
