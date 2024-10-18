@@ -13,6 +13,7 @@ start service နှိပ်၍ service စတင်နိုင်သည့်
 Fairfield Waterworks Office တွင် ရေ နှင့် အမှိုက်အတွက် $100 ခန့် deposit သွင်း၍ အကောင့်ဖောက်ကာ service ယူနိုင်သည်။ ပျမ်းမျှလျှင် လစဉ် $60 မှ $120 ကြား ကျသင့်နိုင်ပြီး ရေသုံးစွဲသည့် ပမာဏအပေါ် မူတည်၍ အတိုးအလျှော့ ရှိနိုင်ပါသည်။
 
 - [Waterworks Office](https://cityoffairfieldiowa.com/202/Water-Department)
+- [Online Payment for Water Bill](https://fairfieldia.ourcommunityconnect.com/)
 
 ## Internet
 

@@ -47,6 +47,12 @@
 
 ## Changes
 
+### Version 1.3.9
+
+#### Oct 18, 2024 (Author: Phone Thant Zaw)
+
+- add online payment link for water bill inside house rental section
+
 ### Version 1.3.8
 
 #### Aug 27, 2024 (Author: Zay Yar Tun)
