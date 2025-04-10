@@ -32,6 +32,7 @@
 - [Salary Calulation](22_salary.md)
 - [EAD](23_ead.md)
 - [OPT](24_opt.md)
+- [Tax Return](25_tax_return.md)
 
 ## အိမ်ငှား
 
@@ -46,6 +47,11 @@
 - [Master's Degree](20_degree.md)
 
 ## Changes
+
+### Version 1.4.0
+#### Apr 10, 2025 (Author: Htain Lin Shwe)
+
+- Add Tax Return
 
 ### Version 1.3.9
 
