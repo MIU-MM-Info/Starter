@@ -2,50 +2,62 @@
 
 ဒီ repo သည် Maharashi University သို့ လာရောက် တက်ရောက်မည့် ကျောင်းသားကျောင်းသူများ အတွက် အသုံးပြုရန် Guide ဖြစ်သည်။
 
-## ကျောင်းမရောက်ခင်
+## ✈️ ကျောင်းမရောက်ခင် (Before Arriving at School)
 
-- [မလာခင် ပြင်ဆင်ခြင်း](01_prepare.md)
-- [Airport Entry / Immigration](02_airport.md)
+| Category                       | Description                                               | Link                  |
+| ------------------------------ | --------------------------------------------------------- | --------------------- |
+| 🧳 မလာခင် ပြင်ဆင်ခြင်း         | What to prepare before arriving in the U.S.               | [Open](01_prepare.md) |
+| 🛂 Airport Entry / Immigration | Information about airport arrival and immigration process | [Open](02_airport.md) |
 
-## ကျောင်းအတွင်း
+## 🎓 ကျောင်းအတွင်း
 
-- [Entry Test](03_entrytest.md)
-- [Links](18_links.md)
-- [MIU App](14_miuapp.md)
-- [Courses](04_courses.md)
-- [Driving License](05_drivinglicense.md)
-- [Buying Car](06_buyingcar.md)
-- [Food & Shopping](07_foodandshopping.md)
-- [Phone](08_phone.md)
-- [Credit Card](09_creditcard.md)
-- [Edu Email](10_eduemail.md)
-- [Bank Account and Zelle](11_bank.md)
-- [Campus Map](map.pdf)
+| Category           | Description                         | Link                          |
+| ------------------ | ----------------------------------- | ----------------------------- |
+| 📘 Entry Test      | Learn about entry test requirements | [Open](03_entrytest.md)       |
+| 🔗 Links           | Useful student links                | [Open](18_links.md)           |
+| 📱 MIU App         | Official app for MIU                | [Open](14_miuapp.md)          |
+| 📚 Courses         | Course details and structure        | [Open](04_courses.md)         |
+| 🚗 Driving License | How to get your driver’s license    | [Open](05_drivinglicense.md)  |
+| 🚙 Buying Car      | Car buying process explained        | [Open](06_buyingcar.md)       |
+| 🍔 Food & Shopping | Nearby food and shopping places     | [Open](07_foodandshopping.md) |
+| 📞 Phone           | Mobile setup and tips               | [Open](08_phone.md)           |
+| 💳 Credit Card     | Credit card information and guides  | [Open](09_creditcard.md)      |
+| 🎓 Edu Email       | Access your educational email       | [Open](10_eduemail.md)        |
+| 🏦 Bank Account    | How to open a bank account          | [Open](11_bank.md)            |
+| 🗺️ Campus Map      | Download the campus map             | [map.pdf](map.pdf)            |
 
-## အလုပ်အကိုင်
+## 💼 အလုပ်အကိုင် (Jobs & Career)
 
-- [Job](12_job.md)
-- [Cloud](13_cloud.md)
-- [Loan Payment](16_paymentplans.md)
-- [Sponsor](19_sponsor.md)
-- [Interview References](21_interviewreferences.md)
-- [Salary Calulation](22_salary.md)
-- [EAD](23_ead.md)
-- [OPT](24_opt.md)
-- [STEM OPT](25_stem_opt.md)
-- [Tax Return](26_tax_return.md)
+| Category                | Description                             | Link                              |
+| ----------------------- | --------------------------------------- | --------------------------------- |
+| 💼 Job                  | Job search information and guidance     | [Open](12_job.md)                 |
+| ☁️ Cloud                | Cloud computing resources and tutorials | [Open](13_cloud.md)               |
+| 💰 Loan Payment         | Loan payment plans and information      | [Open](16_paymentplans.md)        |
+| 🤝 Sponsor              | Information about sponsors              | [Open](19_sponsor.md)             |
+| 💬 Interview References | Common interview questions and answers  | [Open](21_interviewreferences.md) |
+| 💵 Salary Calculation   | How to calculate your salary            | [Open](22_salary.md)              |
+| 🪪 EAD                   | Employment Authorization Document info  | [Open](23_ead.md)                 |
+| 🧾 OPT                  | Optional Practical Training details     | [Open](24_opt.md)                 |
+| 🧬 STEM OPT             | STEM OPT extension guide                | [Open](25_stem_opt.md)            |
+| 🧮 Tax Return           | Tax filing and return process           | [Open](26_tax_return.md)          |
 
-## အိမ်ငှား
+## 🏠 အိမ်ငှား (Housing)
 
-- [House Rental](17_houserental.md)
+| Category        | Description                              | Link                      |
+| --------------- | ---------------------------------------- | ------------------------- |
+| 🏡 House Rental | Information and tips for renting a house | [Open](17_houserental.md) |
 
-## F2
+## 👨‍👩‍👧‍👦 F2 (Dependents)
 
-- [F2](15_f2dependent.md)
+| Category | Description                   | Link                      |
+| -------- | ----------------------------- | ------------------------- |
+| 👪 F2    | Information for F2 dependents | [Open](15_f2dependent.md) |
 
-## Degree
+## 🎓 Degree
 
-- [Master's Degree](20_degree.md)
+| Category           | Description                            | Link                 |
+| ------------------ | -------------------------------------- | -------------------- |
+| 🎓 Master's Degree | Information about the Master’s program | [Open](20_degree.md) |
 
 ## Changes
 

@@ -13,9 +13,10 @@
 - To apply for the STEM OPT extension, you must properly file the Form I-765 with the correct application fee ($470) and required evidence, which is outlined in the attached documents. Please note that you MUST be physically present in the U.S. to submit your application to USCIS.
 
 - The next step is for you to complete the Form I-983 Training Plan for STEM with your supervisor. You can download the Form I-983 here: ICE Form I-983. Please refer to the I-983 Training Plan Instructions attached to this email while completing the form. When entering the DSO information on your Form I-983 please use the following:
-  -- Someone from MIU
-  -- Phone number provided by MIU
-  -- opt@miu.edu
+
+  - Someone from MIU
+  - Phone number provided by MIU
+  - opt@miu.edu
 
 - \*\*\*Avoid this common I-983 error: The employment start date on page 2 should match the STEM OPT requested start date, not your original start date from post-completion OPT.
 
