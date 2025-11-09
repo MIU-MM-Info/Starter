@@ -1,4 +1,4 @@
-# OPT
+# STEM OPT
 
 ## မလျှောက်ခင် ဖတ်ရန်
 
@@ -32,9 +32,9 @@
 
 - You can visit https://students.miu.edu/finances/payment to pay the $600 fee to MIU. Click on the first option (Tuition, Housing, Meals...) and proceed with your payment from there. Send a screenshot of the payment made, along with all other documents. We will be checking your student account to make sure payment has been made before we issue you the updated STEM I-20. \*\*We recommend paying by credit card, as E-Check payments may take up to a week to clear.
 
-- [OPT Application Checklist](<stemopt/I-983-Training-Plan-Instructions-(32).pdf>)
-- [OPT Application Guide](<stemopt/STEM-Online-Application-Checklist-(31).docx>)
-- [OPT Application Guide](<stemopt/STEM-OPT-Extension-I-765-Online-Filing-Guide-(33).pdf>)
+- [STEM OPT Training Plan](<stemopt/I-983-Training-Plan-Instructions-(32).pdf>)
+- [STEM OPT Application Checklist](<stemopt/STEM-Online-Application-Checklist-(31).docx>)
+- [STEM OPT Filing Guide](<stemopt/STEM-OPT-Extension-I-765-Online-Filing-Guide-(33).pdf>)
 
 ## လျှောက်ဖို့ I20 တောင်းရန် ($600)
 
