@@ -75,6 +75,8 @@ IRS Free form filling event တွေ ရှိပါတယ်။ သက်ဆ�
 
 Form 1099-B ဆိုတာကတော့ "Proceeds from Broker and Barter Exchange Transactions" လို့ခေါ်တဲ့ အခွန်ပုံစံတစ်ခု ဖြစ်ပါတယ်။ ဒီပုံစံကို ပွဲစား (Broker) တွေ ဒါမှမဟုတ် ကုန်ပစ္စည်း/ဝန်ဆောင်မှု အလဲအလှယ်လုပ်တဲ့ အဖွဲ့အစည်း (Barter Exchange) တွေက ထုတ်ပေးလေ့ရှိပါတယ်။ ဥပမာ - Robinhood က နှစ်စဥ် Feb or Mar မှာ ထုတ်ပေးပါတယ်။
 
+Transaction အစ အဆုံး ထည့်ရေးဖို့ မလိုအပ်ပဲ စုစုပေါင်း ရငွေ။ မြတ်ငွေ ကို short တစ်ခု။ long တစ်ခု တင်ပါ။
+
 ## Tax Return ပို့ရမည့် Form များ
 
 - Form 1040-NR Fedral
